@@ -1,0 +1,5 @@
+#home-wrapper #about-wrapper { max-width: 102.7em; }
+.header-wrapper .logo { background: url('../images/logo-white-half.png'); }
+body #header-wrapper.header-wrapper-fixed .logo { background: url('../images/logo-black-half.png'); }
+#home-wrapper .kehoe-hero-logo { background: url('../images/kehoe-logo-hero-half.png'); }
+#footer-wrapper .footer-company-link { background: url('../images/kehoe-logo-hero-black-half.png'); }

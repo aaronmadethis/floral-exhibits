@@ -1,0 +1,78 @@
+/*
+Theme Name: Floral Exhibits
+Theme URI: 
+Author: Aaron Pedersen
+Author URI: http://aaronmadethis.com/
+Description: A custom theme for Floral Exhibits
+Version: 0.1
+License: GNU General Public License
+License URI: 
+Tags: 
+
+*/
+html, body {
+	height: 100%;
+	font-size: 62.5%;
+}
+
+body {
+	position: relative;
+	width: 100%;
+	min-height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100%;
+	background-color: #fff;
+	-webkit-font-smoothing: antialiased;
+	margin: 0;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	z-index: 1;
+	background-color: #f7f7f7;
+	float: left;
+}
+a{
+	color: #000;
+	text-decoration: none;
+}
+.clear{
+	clear: both;
+}
+#header-wrapper,
+#page-wrapper{
+	text-align: left;
+}
+#header-wrapper {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 6.0em;
+}
+.title{
+	color: #f00;
+}
+.logo img {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 40px;
+}
+.menu-item {
+	float: left;
+	display: inline;
+	margin: 0 0.5em;
+	padding: 1.0em 0;
+	list-style: none;
+}
+#home-wrapper {
+	margin-top: 6.0em;
+}
+#footer-wrapper{
+	background-color: #ccc;
+}
